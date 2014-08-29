@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Yanone Kaffeesatz';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Yanone Kaffeesatz Regular'), local('YanoneKaffeesatz-Regular'), url(http://fonts.gstatic.com/s/yanonekaffeesatz/v7/YDAoLskQQ5MOAgvHUQCcLRTHiN2BPBirwIkMLKUspj4.woff) format('woff');
+}
+
+body {
+    font-family: 'Yanone Kaffeesatz', Tahoma, Arial, sans-serif;
+    font-size: 72px;
+    color: #fff;
+    background-color: #000;
+}
+
+.custom-egg {
+    text-align: center;
+    margin-top: 200px;
+}
+
+.countdown {
+    font-size: 100px;
+    font-weight: bold;
+}
