@@ -1,5 +1,6 @@
 /*
  * Created by gillian on 8/29/14.
+ * Simple javascript countdown timer
  */
 
 window.onload = function() {
